@@ -13,6 +13,7 @@ seguintes informações: nome, CPF, telefone, gênero, função na empresa, ende
 admissão. Cada funcionário trabalha num departamento, que possui um código, nome e um
 responsável. Ao final de cada mês, é realizado o seguinte cálculo para o pagamento de cada
 funcionário:
+
 * Funcionários que possuem a função de vendedores:
 * Caso vendam até R$ 2000,00 no mês, recebem o salário-mínimo;
 * Caso vendam de R$ 2001,00 até R$ 5000,00 no mês, recebem o salário-mínimo + 2% de
