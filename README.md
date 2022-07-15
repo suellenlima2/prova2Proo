@@ -3,7 +3,7 @@
 
 ## Dupla:
 * Suellen Lima da Silva
-* Jaiane da Silva Correia
+* [Jaiane da Silva Correia](https://github.com/jaianesilva09)
 
 ## Descrição:
 
